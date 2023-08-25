@@ -4,7 +4,7 @@ import lxml.etree
 
 import Evtx.Evtx as evtx
 
-from filter_records import get_child
+from evtx_filter_records import get_child
 
 
 def main():
